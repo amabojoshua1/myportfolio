@@ -12,7 +12,7 @@ import img9 from '../../assets/img9.jpg'
 const Portfolio = () => {
   return (
     <section id='portfolio'>
-      <h5>You Might Also Like</h5>
+      <h5>My Works</h5>
       <h2>Portfolio</h2>
 
       <div className="container portfolio__container">
@@ -20,7 +20,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={img1} alt="Glassmorphic Bank card" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Cyber Security and Cryptosystems</h3>
           <a href="https://githup.com" className='btn'>Github</a>
           <a href="https://github.com/amabojoshua1" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
          </article>
@@ -29,7 +29,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={img2} alt="img2" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Charts Templates and Infographics in Figma</h3>
           <a href="https://githup.com" className='btn'>Github</a>
           <a href="https://github.com/amabojoshua1" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
          </article>
@@ -38,7 +38,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={img3} alt="img3" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Cloud Computing and Maintainance</h3>
           <a href="https://githup.com" className='btn'>Github</a>
           <a href="https://github.com/amabojoshua1" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
          </article>
@@ -47,7 +47,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={img4} alt="img4" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Data Communication The Basics</h3>
           <a href="https://githup.com" className='btn'>Github</a>
           <a href="https://github.com/amabojoshua1" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
          </article>
@@ -56,7 +56,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={img5} alt="A cat pet website" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Introduction to Python for Data Science</h3>
           <a href="https://github.com/amabojoshua1" className='btn'>Github</a>
           <a href="https://github.com/amabojoshua1" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
          </article>
@@ -65,7 +65,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={img6} alt="img6" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Keeping Track via Internet of Things</h3>
           <a href="https://githup.com" className='btn'>Github</a>
           <a href="https://github.com/amabojoshua1" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
          </article>
@@ -74,7 +74,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={img7} alt="imag7" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Figma Dashboard UI kit for design of web apps</h3>
           <a href="https://github.com/amabojoshua1r" className='btn'>Github</a>
           <a href="https://github.com/amabojoshua1" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
          </article>
@@ -83,7 +83,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={img8} alt="image8" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Full Stack Dev, the "web world"</h3>
           <a href="https://github.com/amabojoshua1" className='btn'>Github</a>
           <a href="https://github.com/amabojoshua1" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
          </article>
@@ -92,7 +92,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={img9} alt="img9" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Data Science Visualization</h3>
           <a href="https://github.com/amabojoshua1" className='btn'>Github</a>
           <a href="https://github.com/amabojoshua1" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
          </article>

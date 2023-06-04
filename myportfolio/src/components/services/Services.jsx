@@ -29,19 +29,19 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service__list-icon'></BiCheck>
-              <p>User Interface</p>
+              <p>User friendly and interactiveplatforms</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'></BiCheck>
-              <p>User Interface</p>
+              <p>chart templates and infographics with figma</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'></BiCheck>
-              <p>User Interface</p>
+              <p>UX building training</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'></BiCheck>
-              <p>User Interface</p>
+              <p>UI dev training</p>
             </li>
           </ul>
         </article>
@@ -54,23 +54,23 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'></BiCheck>
-              <p>User Interface</p>
+              <p>Frontend Web develpoment</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'></BiCheck>
-              <p>User Experience</p>
+              <p>Backend Web development</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'></BiCheck>
-              <p>User Interface</p>
+              <p>Design of beautiful and functional websites</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'></BiCheck>
-              <p>User Interface</p>
+              <p>Web dev with react and MERN</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'></BiCheck>
-              <p>User Interface</p>
+              <p>Full stack developper</p>
             </li>
          
           </ul>
@@ -78,29 +78,29 @@ const Services = () => {
             {/* WEB DEVELOPMENT ENDS*/}
          <article className="service">
           <div className="service__head">
-            <h3>Content Creation</h3>
+            <h3>Graphic Design</h3>
           </div>
 
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'></BiCheck>
-              <p>User Interface</p>
+              <p>Top Notch Flyers for Businesses and occasions</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'></BiCheck>
-              <p>User Experience</p>
+              <p>E-book cover design</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'></BiCheck>
-              <p>User Interface</p>
+              <p>Business Card Design</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'></BiCheck>
-              <p>User Interface</p>
+              <p>Deigning of Birthday and vaious events posters</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'></BiCheck>
-              <p>User Interface</p>
+              <p>Content creation</p>
             </li>
           
           </ul>

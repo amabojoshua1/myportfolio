@@ -1,5 +1,3 @@
-/* eslint-disable jsx-a11y/anchor-is-valid */
-/* eslint-disable no-unreachable */
 import React from 'react'
 import { BsLinkedin } from 'react-icons/bs';
 import {FaGithub} from 'react-icons/fa'
@@ -8,18 +6,15 @@ import { CgTwitter } from "react-icons/cg";
 
 import './footer.css'
 const Footer = () => {
-  return (
-    <div>Footer</div>
-  )
     return (
       <div className="footer__container">
-        <a href="#" className="footer__logo">
+        <a href="#footer" className="footer__logo">
           Amabo Joshua
         </a>
 
         <ul className="permalinks">
           <li>
-            <a href="#">Home</a>
+            <a href="#header">Home</a>
           </li>
           <li>
             <a href="#about">About</a>
@@ -57,7 +52,7 @@ const Footer = () => {
         </div>
 
         <div className="copyRight">
-            <h3>@copyright Amabo 2023</h3>
+            <h3>@copyright AJ 2023</h3>
         </div>
       </div>
     );
