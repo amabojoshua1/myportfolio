@@ -1,7 +1,9 @@
 import React from 'react'
 
-export default function Experience() {
+const Experience = () => {
   return (
     <div>Experience</div>
   )
 }
+
+export default Experience
